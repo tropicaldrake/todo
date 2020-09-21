@@ -1,0 +1,37 @@
+.container{
+
+    max-width:800px;
+    margin:25px auto;
+
+
+}
+
+.header{
+
+    color:white;
+    background-color: #313131;
+
+    padding:16px;
+    font-weight:600;
+    letter-spacing:2px;
+    font-size:1em;
+
+
+}
+
+.wrapper{
+
+    box-shadow:1px 1px 6px rgba(0,0,0,0.16);
+
+}
+
+.adder{
+
+    padding:20px 16px;
+
+    display:flex;
+    flex-direction: column;
+
+    border-top:solid 1px lightgray;
+
+}
